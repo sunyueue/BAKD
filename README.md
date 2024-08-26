@@ -4,7 +4,9 @@
 ## 1. prepare the dataset and environment 
 
 
-### 1.1 put the Vaihingen on folder ./vaihingen256_stride
+### 1.1 put the Vaihingen on folder ./vaihingen256_stride  
+
+download: https://drive.google.com/file/d/13Pq6lTtw4aZjphXMF0k8bc0X0425JAJF/view?usp=sharing
 
 ```
 vaihingen256_stride
@@ -28,7 +30,7 @@ conda env create -f BAKD.yaml
 ```
 ### 1.3 prepare the weight files 
 
-
+https://drive.google.com/file/d/1CmjImdww50jmUDHm034bs1WjBTNTZI1h/view?usp=sharing
 
 ## 2. train BAKD
 
