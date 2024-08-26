@@ -30,7 +30,7 @@ conda env create -f BAKD.yaml
 ```
 ### 1.3 prepare the weight files 
 
-https://drive.google.com/file/d/1CmjImdww50jmUDHm034bs1WjBTNTZI1h/view?usp=sharing
+download https://drive.google.com/file/d/1CmjImdww50jmUDHm034bs1WjBTNTZI1h/view?usp=sharing
 
 ## 2. train BAKD
 
