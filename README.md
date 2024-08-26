@@ -14,9 +14,10 @@ vaihingen256_stride
 │   ├── test
 │   ├── train
 │   └── val
-└── gtCoarse Get it using the folder ./dilation
-    ├── train
-    └── train_color
+└── gtCoarse 
+    ├── train (Get it using the folder ./dilation)
+    └── train_color (Get it using the folder ./dilation)
+    └── exp  (Get it using the folder ./distance_weight)
 └── ima_dir
 │   ├── test
 │   ├── train
