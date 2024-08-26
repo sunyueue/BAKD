@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a3261fd9-b14a-4f60-8797-a18f090ccf58" name="root">
+        <fileTransfer accessType="SFTP" sshConfigId="c587a47c-5c4f-4b63-9ad2-11dbf5237e46" sshConfig="root@connect.southb.gpuhub.com:44465 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c64794f1-6770-4eb1-90b9-b454af47df3a" name="algroup">
+        <fileTransfer rootFolder="/home/algroup/sy/CSKD" accessType="SFTP" host="211.65.101.212" port="22" sshConfigId="cdd79586-8983-444f-89a2-be61d7fc090b" sshConfig="algroup@211.65.101.212:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

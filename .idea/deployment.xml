@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="BAKD" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="BAKD">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/algroup/sy/BAKD" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="CSKD">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/algroup/sy/CSKD" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="algroup">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/algroup/sy/CSKD" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="algroup@211.65.101.212:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/algroup/sy/CSKD" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="algroup@211.65.101.212:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="algroup@211.65.101.212:22 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/algroup/sy/BAKD" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="algroup@211.65.101.212:22 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/algroup/sy/BAKD" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/DCS" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
