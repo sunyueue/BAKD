@@ -38,7 +38,7 @@ download https://drive.google.com/file/d/1CmjImdww50jmUDHm034bs1WjBTNTZI1h/view?
 bash train_scripts/exp_yaogan_noisy/yaogan_BAKD_noisy_vaihingen.sh
 ```
 
-## 3. text
+## 3. test
 ```
 python eval.py/prediction.py
 ```
